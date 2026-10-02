@@ -746,6 +746,7 @@
     <string name="dynamic_island_calls_title">Ongoing calls</string>
     <string name="dynamic_island_calls_summary">Show your ongoing call status with duration and quick controls</string>
 
+    <!-- Obscura Privacy -->
     <!-- Advanced CPU / GPU spoofing -->
     <string name="hardware_spoof_category_title">Hardware Spoofing</string>
     <string name="advanced_app_spoof_title">Advanced CPU / GPU Spoof</string>
@@ -869,4 +870,8 @@
     <string name="obscura_preset_shizuku">Shizuku / Dhizuku</string>
     <string name="obscura_preset_shizuku_short">Shizuku</string>
     <string name="obscura_preset_count">%1$s (%2$d)</string>
+
+    <!-- Volume doze -->
+    <string name="volume_doze_title">Volume dialog on screen off</string>
+    <string name="volume_doze_summary">Show volume dialog and pulse ambient display when pressing volume keys while screen is off</string>
 </resources>

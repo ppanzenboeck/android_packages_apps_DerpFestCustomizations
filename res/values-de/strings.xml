@@ -842,4 +842,8 @@
     <string name="obscura_preset_shizuku">Shizuku / Dhizuku</string>
     <string name="obscura_preset_shizuku_short">Shizuku</string>
     <string name="obscura_preset_count">%1$s (%2$d)</string>
+
+    <!-- Volume doze -->
+    <string name="volume_doze_title">Lautstärkedialog bei ausgeschaltetem Bildschirm</string>
+    <string name="volume_doze_summary">Lautstärkedialog anzeigen und Ambient-Display aufwecken, wenn Lautstärketasten bei ausgeschaltetem Bildschirm gedrückt werden</string>
 </resources>
